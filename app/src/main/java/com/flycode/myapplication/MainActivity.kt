@@ -9,7 +9,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
 
-        println("second branch commit")
+        println("qewqeqweqeqweqwe")
 
         println()
     }
