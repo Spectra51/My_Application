@@ -9,8 +9,8 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
 
-        println("qewqeqweqeqweqwe")
-
-        println()
+        for (i in 1..10){
+            println(i)
+        }
     }
 }
