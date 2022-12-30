@@ -10,5 +10,7 @@ class MainActivity : AppCompatActivity() {
 
 
         println("second branch commit")
+
+        println()
     }
 }
